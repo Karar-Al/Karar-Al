@@ -12,9 +12,13 @@ Work profile: [@AlRemahy](https://github.com/alremahy)
 * Vue 3 Home Dashboard - **Solo assignment** with Node.js backend - [Online static preview](https://karar-al.github.io/vue-vg-dashboard)
   * [Frontend](https://github.com/Karar-Al/vue-vg-dashboard)
   * [Backend](https://github.com/Karar-Al/vue-vg-dashboard-backend)
-* Vue 3 prototype Restaurant menu for in-house ordering - Agile **group assignment** - [Online static preview](https://karar-al.github.io/vue-restaurant-menu)
+* Vue 3 prototype Restaurant menu for in-house ordering - Agile **group assignment** - [Online preview](https://karar-al.github.io/vue-restaurant-menu)
   * [Repository](https://github.com/Karar-Al/vue-restaurant-menu)
 
+### Not-school related, but done during school time
+
+* Task: Create a Sokoban from **scratch** - **Solo project** - [Online preview](https://codepen.io/kyh-karar/pen/ZEJJyxK)
+  * [Repository](https://github.com/Karar-Al/Sokoban)
 
 <!---
 Karar-Al/Karar-Al is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
