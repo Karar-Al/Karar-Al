@@ -9,6 +9,9 @@ Work profile: [@AlRemahy](https://github.com/alremahy)
 
 #### Featured school projects
 
+* React "Internship matchmaking" App - Agile **group assignment** with mockup API.
+  * [Repository](https://github.com/Karar-Al/project-lia-appen)
+
 * Vue 3 Home Dashboard - **Solo assignment** with Node.js backend - [Online static preview](https://karar-al.github.io/vue-vg-dashboard)
   * [Frontend](https://github.com/Karar-Al/vue-vg-dashboard)
   * [Backend](https://github.com/Karar-Al/vue-vg-dashboard-backend)
